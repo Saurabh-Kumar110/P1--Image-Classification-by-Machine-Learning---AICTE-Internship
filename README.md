@@ -18,17 +18,22 @@ Instant Predictions: Upload an image and receive immediate predictions with conf
 Ideal for gaining insights into the performance of deep learning models.
 Valuable for real-world applications where image classification is essential.
 
+
+
 #Batch Processing:
 Allows users to upload multiple images simultaneously for bulk classification.
+
+
 
 #Top 3 Predictions Display:
 Shows the top 3 predicted categories with confidence scores, offering a detailed output.
 
+
+
 #CSV Export:
 Users can download their prediction results in a CSV file for further analysis or record-keeping.
 
-#Mobile-Friendly:
-Fully responsive design ensures smooth operation on both desktop and mobile devices.
 
-#Automatic Image Preprocessing:
+
+Automatic Image Preprocessing:
 Automatically resizes and preprocesses images to ensure compatibility with the models before making predictions.
