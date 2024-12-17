@@ -6,7 +6,9 @@
 This cutting-edge web application is designed for image classification, leveraging two powerful machine learning models: MobileNetV2 (trained on ImageNet) and a custom CIFAR-10 model. Users can upload images and obtain predictions, including confidence scores, from either model.
 
 ##Key Features
+
 #Dual Model Functionality:
+
 MobileNetV2 (ImageNet): Capable of classifying images into 1,000 different categories from the ImageNet dataset, encompassing everyday objects, animals, and vehicles.
 Custom CIFAR-10 Model: Tailored to classify images into ten specific categories, including airplanes, cars, birds, and cats.
 
