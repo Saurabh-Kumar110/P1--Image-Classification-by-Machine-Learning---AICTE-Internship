@@ -35,5 +35,5 @@ Users can download their prediction results in a CSV file for further analysis o
 
 
 
-Automatic Image Preprocessing:
+#Automatic Image Preprocessing:
 Automatically resizes and preprocesses images to ensure compatibility with the models before making predictions.
