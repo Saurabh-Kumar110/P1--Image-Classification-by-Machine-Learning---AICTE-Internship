@@ -38,3 +38,10 @@ Users can download their prediction results in a CSV file for further analysis o
 
 # Automatic Image Preprocessing:
 Automatically resizes and preprocesses images to ensure compatibility with the models before making predictions.
+
+
+# Acknowledgment
+### Streamlit has been instrumental in providing an intuitive platform that enables seamless creation of interactive web applications. The ease of use and flexibility of Streamlit have significantly enhanced the development process, making it possible to bring this image classification app to life.
+
+### TensorFlow has been a cornerstone of this project, offering a powerful and versatile framework for building and deploying machine learning models. The extensive libraries and resources provided by TensorFlow have enabled the training and optimization of the MobileNetV2 and custom CIFAR-10 models, ensuring high accuracy and performance.
+
